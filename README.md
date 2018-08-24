@@ -1,2 +1,2 @@
 # development
-This repo is used to keep my development projects, mostly when I try to learn a new technology ans so on.
+This repo is used to keep my development projects, mostly when I try to learn a new technology and so on.
